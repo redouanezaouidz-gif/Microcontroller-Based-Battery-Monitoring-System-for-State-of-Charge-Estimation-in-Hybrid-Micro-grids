@@ -6,7 +6,7 @@ This repository contains the MATLAB/Simulink simulation of a linear Kalman filte
 for estimating the State of Charge (SoC) of a 12 V 7 Ah lead‑acid battery.
 
 ## Files
-- `battery_soc_sim.slx`  – Simulink model (plant + measurement + estimator)
+- `SOC_simulink.slx`  – Simulink model (plant + measurement + estimator)
 - `plot_results.m`       – Post‑processing script (if any)
 
 ## Requirements
